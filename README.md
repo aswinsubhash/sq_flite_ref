@@ -1,4 +1,4 @@
-# machine_test_norq
+# sq_flite_ref
 
 A new Flutter project.
 
